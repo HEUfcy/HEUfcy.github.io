@@ -36,9 +36,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 Xuanjia Zhao, Jian Guan, **Congyi Fan**, Dongli Xu, Youtian Lin, Haiwei Pan, Pengming Feng
 
-[**Project**](https://fastdrag-site.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
 Drag-based image editing using generative models provides precise control over image contents, enabling users to manipulate anything in an image with a few clicks.
+
+[**Project**](https://fastdrag-site.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
