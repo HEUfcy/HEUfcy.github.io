@@ -48,7 +48,7 @@ Xuanjia Zhao, Jian Guan, **Congyi Fan**, Dongli Xu, Youtian Lin, Haiwei Pan, Pen
 - **2024.05** American Undergraduate Mathematical Contest in Modeling, Honorable Mention, Ranked 1st.
 - **2023.11** National Undergraduate Mathematical Contest in Modeling, First Prize in Heilongjiang Province, Ranked 1st.
 
-# Projects
+# 💡 Projects
 - **2022.07 - now**， National Undergraduate Training Program for Innovation and Entrepreneurship.
 
 # 📖 Educations
