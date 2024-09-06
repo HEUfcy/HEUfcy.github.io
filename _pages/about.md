@@ -23,8 +23,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **2024.07**: &nbsp;🎉🎉 As the project leader, successfully led the application for the **National Undergraduate Training Program for Innovation and Entrepreneurship**, ranked in the top 4.16%, and recognized as a nationally prioritized project. 
+- **2023.09**: &nbsp;🎉🎉 Participated in the 2023 Forum on Technological Innovation for the Maritime Power Strategy.
+- **2023.08**: &nbsp;🎉🎉 Participated in the 18th National Conference on Computer-Supported Cooperative Work and Social Computing.
 
 # 📝 Publications 
 
@@ -50,7 +51,7 @@ Xuanjia Zhao, Jian Guan, **Congyi Fan**, Dongli Xu, Youtian Lin, Haiwei Pan, Pen
 - *2022.07 - now*， National Undergraduate Training Program for Innovation and Entrepreneurship.
 
 # 📖 Educations
-- *2022.09 - now*, Undergraduate, College of Computer Science and Technology, Harbin Engineering University, Harbin. 
+- **2022.09 - now**, Undergraduate, College of Computer Science and Technology, Harbin Engineering University, Harbin. 
 
 # 💻 Internships
-- *2024.07 - now*, Harbin Institute of Technology, Shenzhen (HITSZ).
+- **2024.07 - now**, Harbin Institute of Technology, Shenzhen (HITSZ).
