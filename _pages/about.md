@@ -46,6 +46,9 @@ Xuanjia Zhao, Jian Guan, **Congyi Fan**, Dongli Xu, Youtian Lin, Haiwei Pan, Pen
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+# Projects
+- *2022.07 - now*， National Undergraduate Training Program for Innovation and Entrepreneurship.
+
 # 📖 Educations
 - *2022.09 - now*, Undergraduate, College of Computer Science and Technology, Harbin Engineering University, Harbin. 
 
