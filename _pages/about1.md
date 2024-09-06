@@ -21,7 +21,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-
+<!-- 
 # 🔥 News
 - **2024.07**: &nbsp;🎉🎉 As the project leader, successfully led the application for the **National Undergraduate Training Program for Innovation and Entrepreneurship**, ranked in the top 4.16%, and recognized as a nationally prioritized project. 
 - **2023.09**: &nbsp;🎉🎉 Participated in the 2023 Forum on Technological Innovation for the Maritime Power Strategy.
@@ -65,3 +65,5 @@ Drag-based image editing using generative models provides precise control over i
 - **2022.09 - 2023.09**  Officer of the Organization Department of the Youth League Committee of the College of Computer Science and Technology.
 - **2023.10 - now**  League secretary of the first class of information security of Harbin Engineering University, class of 2022.
 - **2023.12 - 2023.06**  Harbin Engineering University 2022 class study committee member of the first class of computer science.
+
+ -->
