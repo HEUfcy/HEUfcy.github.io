@@ -59,8 +59,8 @@ Xuanjia Zhao, Jian Guan, **Congyi Fan**, Dongli Xu, Youtian Lin, Haiwei Pan, Pen
 
 
 # 🏫 Partial Student Work
-- **2023.07 -- now** President of Harbin Engineering University Network Security Technology Society.
-- **2023.09 -- now** Deputy Director of the Party Building Center of the College of Computer Science and Technology.
-- **2022.09 -- 2023.09** Officer of the Organization Department of the Youth League Committee of the College of Computer Science and Technology.
-- **2023.10 -- now** League secretary of the first class of information security of Harbin Engineering University, class of 2022.
-- **2023.12 -- 2023.06** Harbin Engineering University 2022 class study committee member of the first class of computer science.
+- **2023.07 - now** President of Harbin Engineering University Network Security Technology Society.
+- **2023.09 - now** Deputy Director of the Party Building Center of the College of Computer Science and Technology.
+- **2022.09 - 2023.09** Officer of the Organization Department of the Youth League Committee of the College of Computer Science and Technology.
+- **2023.10 - now** League secretary of the first class of information security of Harbin Engineering University, class of 2022.
+- **2023.12 - 2023.06** Harbin Engineering University 2022 class study committee member of the first class of computer science.
