@@ -50,7 +50,8 @@ Drag-based image editing using generative models provides precise control over i
 - **2023.11**  National Undergraduate Mathematical Contest in Modeling, First Prize in Heilongjiang Province, Ranked 1st.
 
 # 💡 Projects
-- **2022.07 - now**  National Undergraduate Training Program for Innovation and Entrepreneurship.
+- **2024.07 - now**  National Undergraduate Training Program for Innovation and Entrepreneurship, **Project Leader**.
+- **2024.07 - now**  AI-Driven Film and Television Content Generation Project, Participant.
 
 # 📖 Educations
 - **2022.09 - now**  Undergraduate, College of Computer Science and Technology, Harbin Engineering University, Harbin. 
