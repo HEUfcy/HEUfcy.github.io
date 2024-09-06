@@ -43,12 +43,13 @@ Xuanjia Zhao, Jian Guan, **Congyi Fan**, Dongli Xu, Youtian Lin, Haiwei Pan, Pen
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Partial Honors and Awards
+- **2024.07** National Undergraduate Information Security Competition, Third Prize in the Northeast Region, Ranked 1st.
+- **2024.05** American Undergraduate Mathematical Contest in Modeling, Honorable Mention, Ranked 1st.
+- **2023.11** National Undergraduate Mathematical Contest in Modeling, First Prize in Heilongjiang Province, Ranked 1st.
 
 # Projects
-- *2022.07 - now*， National Undergraduate Training Program for Innovation and Entrepreneurship.
+- **2022.07 - now**， National Undergraduate Training Program for Innovation and Entrepreneurship.
 
 # 📖 Educations
 - **2022.09 - now**, Undergraduate, College of Computer Science and Technology, Harbin Engineering University, Harbin. 
