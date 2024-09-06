@@ -45,23 +45,22 @@ Drag-based image editing using generative models provides precise control over i
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Partial Honors and Awards
-- **2024.07** National Undergraduate Information Security Competition, Third Prize in the Northeast Region, Ranked 1st.
-- **2024.05** American Undergraduate Mathematical Contest in Modeling, Honorable Mention, Ranked 1st.
-- **2023.11** National Undergraduate Mathematical Contest in Modeling, First Prize in Heilongjiang Province, Ranked 1st.
+- **2024.07**  National Undergraduate Information Security Competition, Third Prize in the Northeast Region, Ranked 1st.
+- **2024.05**  American Undergraduate Mathematical Contest in Modeling, Honorable Mention, Ranked 1st.
+- **2023.11**  National Undergraduate Mathematical Contest in Modeling, First Prize in Heilongjiang Province, Ranked 1st.
 
 # 💡 Projects
-- **2022.07 - now**， National Undergraduate Training Program for Innovation and Entrepreneurship.
+- **2022.07 - now**  National Undergraduate Training Program for Innovation and Entrepreneurship.
 
 # 📖 Educations
-- **2022.09 - now**, Undergraduate, College of Computer Science and Technology, Harbin Engineering University, Harbin. 
+- **2022.09 - now**  Undergraduate, College of Computer Science and Technology, Harbin Engineering University, Harbin. 
 
 # 💻 Internships
-- **2024.07 - now**, Harbin Institute of Technology, Shenzhen (HITSZ).
-
+- **2024.07 - now**  Harbin Institute of Technology, Shenzhen (HITSZ).
 
 # 🏫 Partial Student Work
-- **2023.07 - now** President of Harbin Engineering University Network Security Technology Society.
-- **2023.09 - now** Deputy Director of the Party Building Center of the College of Computer Science and Technology.
-- **2022.09 - 2023.09** Officer of the Organization Department of the Youth League Committee of the College of Computer Science and Technology.
-- **2023.10 - now** League secretary of the first class of information security of Harbin Engineering University, class of 2022.
-- **2023.12 - 2023.06** Harbin Engineering University 2022 class study committee member of the first class of computer science.
+- **2023.07 - now**  President of Harbin Engineering University Network Security Technology Society.
+- **2023.09 - now**  Deputy Director of the Party Building Center of the College of Computer Science and Technology.
+- **2022.09 - 2023.09**  Officer of the Organization Department of the Youth League Committee of the College of Computer Science and Technology.
+- **2023.10 - now**  League secretary of the first class of information security of Harbin Engineering University, class of 2022.
+- **2023.12 - 2023.06**  Harbin Engineering University 2022 class study committee member of the first class of computer science.
