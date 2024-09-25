@@ -23,6 +23,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!-- 
 # 🔥 News
+- **2024.09**: &nbsp;🎉🎉 I have received a letter of appreciation from the Heilongjiang Provincial Department of Education.
 - **2024.07**: &nbsp;🎉🎉 As the project leader, successfully led the application for the **National Undergraduate Training Program for Innovation and Entrepreneurship**, ranked in the top 4.16%, and recognized as a nationally prioritized project. 
 - **2023.09**: &nbsp;🎉🎉 Participated in the 2023 Forum on Technological Innovation for the Maritime Power Strategy.
 - **2023.08**: &nbsp;🎉🎉 Participated in the 18th National Conference on Computer-Supported Cooperative Work and Social Computing.
