@@ -19,6 +19,8 @@ redirect_from:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
+<---
+
 # 🔥 News
 - **2024.09**: &nbsp;🎉🎉 I have received a letter of appreciation from the Heilongjiang Provincial Department of Education.
 - **2024.07**: &nbsp;🎉🎉 As the project leader, successfully led the application for the **National Undergraduate Training Program for Innovation and Entrepreneurship**, ranked in the top 4.16%, and recognized as a nationally prioritized project. 
@@ -64,3 +66,5 @@ Drag-based image editing using generative models provides precise control over i
 - **2023.10 - now**  League secretary of the first class of information security of Harbin Engineering University, class of 2022.
 - **2023.12 - 2023.06**  Harbin Engineering University 2022 class study committee member of the first class of computer science.
 
+
+--->
