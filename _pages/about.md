@@ -57,7 +57,7 @@ Drag-based image editing using generative models provides precise control over i
 - **2022.09 - now**  Undergraduate, College of Computer Science and Technology, Harbin Engineering University, Harbin. 
 
 # 💻 Internships
-- **2024.07 - now**  Harbin Institute of Technology, Shenzhen (HITSZ).
+- **2024.07 - 2024.10**  Guangdong Key Laboratory of New Security and Intelligence Technology, HITSZ.
 
 # 🏫 Partial Student Work
 - **2023.07 - now**  President of Harbin Engineering University Network Security Technology Society.
