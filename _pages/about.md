@@ -51,7 +51,7 @@ Drag-based image editing using generative models provides precise control over i
 
 # 💡 Projects
 - **2024.07 - now**  National Undergraduate Training Program for Innovation and Entrepreneurship, **Project Leader**.
-- **2024.07 - now**  AI-Driven Film and Television Content Generation Project, Participant.
+- **2024.07 - 2024.11**  AI-Driven Film and Television Content Generation Project, Participant.
 
 # 📖 Educations
 - **2022.09 - now**  Undergraduate, College of Computer Science and Technology, Harbin Engineering University, Harbin. 
