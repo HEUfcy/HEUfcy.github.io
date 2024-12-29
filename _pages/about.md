@@ -19,7 +19,7 @@ redirect_from:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-
+<!--
 
 # 🔥 News
 - **2024.12**: &nbsp;🎉🎉 Awarded First Prize at the 9th National Youth Artificial Intelligence Innovation and Entrepreneurship Conference.
@@ -44,13 +44,13 @@ Drag-based image editing using generative models provides precise control over i
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Partial Honors and Awards
 - **2024.12**  First Prize at the 9th National Youth Artificial Intelligence Innovation and Entrepreneurship Conference, Ranked 1st.
 - **2024.07**  National Undergraduate Information Security Competition, Third Prize in the Northeast Region, Ranked 1st.
 - **2024.05**  American Undergraduate Mathematical Contest in Modeling, Honorable Mention, Ranked 1st.
 - **2023.11**  National Undergraduate Mathematical Contest in Modeling, First Prize in Heilongjiang Province, Ranked 1st.
+- (Total of 2 national awards and 7 provincial awards)
 
 # 💡 Projects
 - **2024.07 - now**  National Undergraduate Training Program for Innovation and Entrepreneurship, **Project Leader**.
